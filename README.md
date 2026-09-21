@@ -1,2 +1,2 @@
-# Hybrid-Sort
-Sorting algorithm using both insertion sort and merge sort
+#Sorting-Algorithms
+Some sorting algorithms
